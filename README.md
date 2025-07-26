@@ -1,4 +1,4 @@
-### Olá, eu sou Miguel Brasiliense Felipe Nunes! 🖐️
+### Olá, eu sou Miguel Nunes! 🖐️
 
 
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguelbfnunes/)
