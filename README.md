@@ -10,7 +10,7 @@
 ![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miguel-EngSoftware&show_icons=true&theme=tokyonight&rank_icon=default)
 
 
-## 💻  Tecnologias
+## 💻  Tecnologias que eu uso
 
 | **Back-End** | **Front-End** | **Game Engines** | **Robótica** |
 |--------------|----------------|------------------|----------------|
