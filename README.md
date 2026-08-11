@@ -1,7 +1,7 @@
 # Hi 👋, I'm Miguel Brasiliense
 
 🚀 **Junior Software Engineer | Java & Python Enthusiast**
-🇧🇷 Brazil
+🇧🇷 
 
 I'm constantly learning, building projects, and improving my skills in **software development, backend systems, APIs, clean code, and AI solutions such as RAG and AI agents**.
 
