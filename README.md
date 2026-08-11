@@ -3,7 +3,7 @@
 🚀 **Junior Software Engineer | Java & Python Enthusiast**
 🇧🇷 
 
-I'm constantly learning, building projects, and improving my skills in **software development, backend systems, APIs, clean code, and AI solutions such as RAG and AI agents**.
+I'm constantly learning, building projects, and improving my skills in **software development, backend systems, APIs, clean code, and AI solutions (RAG and AI agents)**.
 
 
 ---
